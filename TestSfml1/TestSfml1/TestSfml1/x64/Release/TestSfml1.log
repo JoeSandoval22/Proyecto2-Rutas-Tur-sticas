@@ -1,0 +1,112 @@
+﻿  Main.cpp
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(92,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(92,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(156,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(156,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,82): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,82): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,82): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,82): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,82): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,61): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,61): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,61): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(174,61): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,104): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,104): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,104): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,104): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,104): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,72): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,72): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,72): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(175,72): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(318,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,104): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,104): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,104): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,104): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,104): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,83): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,83): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,83): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,83): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(522,83): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,106): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,106): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,106): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,106): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,106): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,85): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,85): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,85): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,85): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(529,85): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,108): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,108): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,108): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,108): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,108): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,87): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,87): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,87): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,87): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(537,87): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,109): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,109): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,109): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,109): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,109): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,88): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,88): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,88): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,88): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(543,88): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,102): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,102): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,102): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,102): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,102): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,81): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,81): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,81): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,81): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(549,81): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,100): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,100): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,100): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,100): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,100): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,79): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,79): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,79): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,79): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(552,79): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,101): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,101): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,101): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,101): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,101): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,80): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,80): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,80): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,80): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(555,80): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,102): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,102): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,102): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,102): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,102): warning C4244:         ]
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,81): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,81): warning C4244:         with
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,81): warning C4244:         [
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,81): warning C4244:             T=float
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(558,81): warning C4244:         ]
+  Generando código
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\Main.cpp(343): warning C4715: 'RouteList::getRoute': no todas las rutas de acceso de control devuelven un valor
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  TestSfml1.vcxproj -> C:\Users\UNA-CC\Downloads\TestSfml1\TestSfml1\x64\Release\TestSfml1.exe
